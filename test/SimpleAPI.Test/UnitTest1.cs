@@ -15,7 +15,7 @@ namespace SimpleAPI.Test
 
             var retValue = wfc.Get();
 
-            Assert.Equal("Test","Test");
+            Assert.Equal("Test","Test1");
         }
         
         [Fact]
